@@ -8,6 +8,6 @@ def linear_model_summary(model):
     print('='*len(header_string))
     print(header_string)
     print('-'*len(header_string))
-    format_string = "{:<10} {:>20.2f} {:>15.2f}"
+    format_string = "{:<20} {:>10.2f} {:>15.2f}"
     for name, est, se in zip(variable_names, parameter_estimates, standard_errors):
         print(format_string.format(name, est, se))
