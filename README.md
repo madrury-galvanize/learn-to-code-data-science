@@ -1,1 +1,3 @@
-Link to slides for this [class](https://docs.google.com/presentation/d/16GaZyXS6G37x5cC-zIWhCAVtSw4lIGokaA67Sx9XnTc).
+The slides for this class are included as `slides.pdf`.
+
+The content was created in `intro-to-data-science.ipynb`, which contains a complete walk-through of the content.  Additional content is also included in the notebook.
